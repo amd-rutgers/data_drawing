@@ -1,6 +1,8 @@
 Data Drawing
 ============
 
+![Data Drawing](screengrab.png)
+
 Use data collected over the past week to make a drawing.
 
 1. Create a processing sketch that loads in your data and creates an illustration using your data points
